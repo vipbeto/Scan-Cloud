@@ -1416,6 +1416,12 @@ cdn8
 cdn9
 cdntest30
 cdntest40
+cdntest04
+cdntest30
+cdntest31
+cdntest32
+cdntest40
+chat-content
 cdo
 cdp
 cdp1
