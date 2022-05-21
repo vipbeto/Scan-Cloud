@@ -1414,6 +1414,8 @@ cdn6
 cdn7
 cdn8
 cdn9
+cdntest30
+cdntest40
 cdo
 cdp
 cdp1
