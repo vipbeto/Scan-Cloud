@@ -637,6 +637,8 @@ asia
 asian
 asistencia
 ask
+api
+api2
 asl
 asp
 asp1
@@ -1257,6 +1259,7 @@ cake
 cal
 calc
 calcium
+careers
 calculator
 caldav
 calendar
@@ -8709,6 +8712,10 @@ speedtest3
 speedtest4
 speedy
 spell
+static
+cdntest30
+cdntest40
+cdntest20
 spf
 sph
 sphinx
@@ -9454,6 +9461,7 @@ titania
 titanic
 titanium
 titus
+api
 tivoli
 tj
 tjj
